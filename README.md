@@ -1,6 +1,5 @@
 # Multi-Sheet-Data-Entry
 
-# Multi-Sheet Data Entry System
 A powerful, flexible Python-based data entry application with Excel integration and multi-sheet support. Perfect for automating repetitive data entry tasks across multiple categories or departments.
 
 ## Features
@@ -372,8 +371,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Michael Ramalla**
 
-* GitHub: [@yourusername](https://github.com/yourusername)
-* Email: MICHAEL.RAMALLA@yahoo.com
+* GitHub: [Mike-Ram](https://github.com/Mike-Ram)
+* Email: MICHAEL.RAMALLA3011@gmail.com
 
 ## 🙏 Acknowledgments
 * Built with Python and Tkinter
@@ -389,3 +388,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## ⭐ Star This Repository
 If you find this project useful, please consider giving it a star! It helps others discover the project.
+
